@@ -48,7 +48,7 @@ Visit the [`lidRmetrics`](https://github.com/ptompalski/lidRmetrics)[ github pag
 You will work in **3-4 teams**. Each team will become an expert and teach the rest of the group about selected lidar metrics.
 
 1.  Browse the `lidRmetrics` documentation and list of available metrics
-2.  You will be assigned **three feature families**. Choose [**onefeature from each family**]{.underline} assigned to your team.
+2.  You will be assigned **three feature families**. Choose **one feature from each family** assigned to your team.
 3.  For each selected feature, your team will provide:
     1.  **A definition:** e.g., mathematical expression, logical description, code, or pseudocode
     2.  **A sketch or visual explanation:** e.g., Simple hand-drawn diagram, histogram of heights, vertical profile
@@ -99,7 +99,7 @@ plot(las)
 
 ### Team Tasks
 
-Using the same four features your team selected earlier:
+Using the same three features your team selected earlier:
 
 -   Compute each feature using an appropriate function
 -   Produce a raster map for each feature
