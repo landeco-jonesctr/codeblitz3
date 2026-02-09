@@ -1,5 +1,7 @@
 # codeblitz3: Lidar Feature Engineering for Forest Structure
 
+[Summary of lidar metrics](SUPPORT.md)
+
 ## 🎯 Learning Objectives
 
 By the end of this Code Blitz, you should be able to:
