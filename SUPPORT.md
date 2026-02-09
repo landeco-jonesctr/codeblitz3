@@ -1,6 +1,22 @@
 ## Summary of lidar metrics
 
-### Height percentiles - `metrics_percentiles()`
+1.  [Height percentiles](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#summary-of-lidar-metrics)
+
+2.  [Proportion of returns above height thresholds](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#2-proportion-of-returns-above-threshold-height---metrics_percabove)
+
+3.  [Vertical dispersion metrics](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#3-vertical-structure--metrics_dispersion)
+
+4.  [Interval (layer-based) metrics](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#4-interval-metrics---metrics_interval)
+
+5.  [L moments](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#5-l-moments-metrics---metrics_lmoments)
+
+6.  [Voxel metrics](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#6-metrics-calculated-using-voxels---metrics_voxels)
+
+7.  [Kernel density estimation](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#7-metrics-based-on-kernel-density-estimation---metrics_kde)
+
+8.  [GLCM texture metrics](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#8-glcm-grey-level-co-occurence-matrix-metrics-of-a-canopy-height-model-chm---metrics_texture)
+
+### Height percentiles - `metrics_percentiles()`
 
 #### Definition
 
@@ -38,7 +54,7 @@ Percentage of points above specified threshold heights (2m, 5m) and mean height
 
 Characterizing the overstory, tree height distribution
 
-### 3. Vertical structure - `metrics_dispersion()`
+### 3. Vertical structure - `metrics_dispersion()`
 
 #### Definition
 
