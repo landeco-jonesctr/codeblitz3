@@ -16,7 +16,7 @@
 
 8.  [GLCM texture metrics](https://github.com/landeco-jonesctr/codeblitz3/blob/main/SUPPORT.md#8-glcm-grey-level-co-occurence-matrix-metrics-of-a-canopy-height-model-chm---metrics_texture)
 
-### Height percentiles - `metrics_percentiles()`
+### 1. Height percentiles - `metrics_percentiles()`
 
 #### Definition
 
