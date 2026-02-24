@@ -58,4 +58,5 @@ glcm_rast <-
 
 # stack those rasters:
 
-c(rumple_rast, interval_rast, glcm_rast)
+stacked_rast <-
+  c(rumple_rast, interval_rast)
